@@ -1,0 +1,12 @@
+numpy
+matplotlib
+ipympl
+ipykernel
+torch
+ripser
+easy-to-hard-data
+maze-dataset
+termcolor # used by src.utils.solvers
+scipy # used by src.utils.solvers
+omegaconf # used by src.utils.loading
+#jaxtyping
