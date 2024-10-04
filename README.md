@@ -14,7 +14,7 @@
 
 ## Introduction
 
-*Maze Extrapolation* is a research project dedicated to experimenting with neural networks designed to extrapolate solutions in maze-solving tasks. By leveraging state-of-the-art deep learning architectures, the project aims to predict and extend paths in complex mazes beyond the patterns encountered during training. This work explores the capabilities and limitations of neural networks in extrapolative reasoning, contributing to advancements in artificial intelligence and machine learning.
+*Maze Extrapolation* is a research project dedicated to experimenting with neural networks designed to extrapolate on maze-solving tasks. We test reccurent and implicit networks on out-of-distribution mazes and explore the latent dynamics of the models using topological data analysis.
 
 Read our paper: [On Logical Extrapolation for Mazes with Recurrent and Implicit Networks](https://arxiv.org/search/math?searchtype=author&query=Fung,+S+W).
 
@@ -83,4 +83,4 @@ To evaluate the models:
      ```bash
      python -m src.analyze
 
-See [notebooks](/notebooks/) folder for demos.
+See the [notebooks](/notebooks/) folder for demos.
