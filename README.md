@@ -32,7 +32,7 @@ The BibTeX citation is:
         Daniel McKenzie
       },
       journal = {arXiv preprint arXiv:2410.03020},
-      year = {2023},
+      year = {2024},
       url = {https://arxiv.org/abs/2410.03020},
     }
 
