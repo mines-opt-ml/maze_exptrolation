@@ -8,15 +8,15 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [Models](#models)
-- [Contributing](#contributing)
+<!-- - [Contributing](#contributing)
 - [License](#license)
-- [Acknowledgments](#acknowledgments)
+- [Acknowledgments](#acknowledgments) -->
 
 ## Introduction
 
 *Maze Extrapolation* is a research project dedicated to experimenting with neural networks designed to extrapolate on maze-solving tasks. We test reccurent and implicit networks on out-of-distribution mazes and explore the latent dynamics of the models using topological data analysis.
 
-Read our paper: [On Logical Extrapolation for Mazes with Recurrent and Implicit Networks](https://arxiv.org/search/math?searchtype=author&query=Fung,+S+W).
+Read our paper: [On Logical Extrapolation for Mazes with Recurrent and Implicit Networks](https://arxiv.org/abs/2410.03020).
 
 The BibTeX citation is:
 
@@ -31,9 +31,9 @@ The BibTeX citation is:
         Samy Wu Fung and 
         Daniel McKenzie
       },
-      journal = {arXiv preprint arXiv:1234.56789},
+      journal = {arXiv preprint arXiv:2410.03020},
       year = {2023},
-      url = {https://arxiv.org/abs/1234.56789},
+      url = {https://arxiv.org/abs/2410.03020},
     }
 
 ## Features
